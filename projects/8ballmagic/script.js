@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
     var magic8Ball = {};
-    magic8Ball.listOfAnswers = ["No", "Yes", "I don't think so...", "Of course!", "Indubitably", "In your dreams."];
+    magic8Ball.listOfAnswers = ["No", "Yes", "I don't think so...", "I say this with full certanty, possibly!", "Of course!", "for sure!!!", "In your dreams.", "Not sure. maybe I guess?"];
   
     $("#answer").hide();
   
